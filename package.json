@@ -1,5 +1,5 @@
 {
-  "name": "connect-mongo",
+  "name": "fx-connect-mongo",
   "version": "0.8.1",
   "description": "MongoDB session store for Express and Connect",
   "keywords": [
